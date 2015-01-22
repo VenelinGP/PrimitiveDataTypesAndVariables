@@ -1,0 +1,39 @@
+﻿/* Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
+ * Write in a text file called  “list-of-IDEs.txt”  at least five IDEs along with 2-3 sentences about each of them. Use English. */
+
+ 1. Microsoft Visual Studio
+
+ If you are looking for the definitive IDE for Windows application development, look no further than to Microsoft's own developer toolset.
+ Visual Studio products cover languages like C++, C# and VB.NET. In addition, you are also able to develop for the Windows x86, Windows RT,
+ and Windows Phone. The latest version of Visual Studio is also designed to be optimized for touch, just in case you happen to be writing
+ code on a Microsoft Surface.
+
+ 2. Oracle Netbeans
+
+ If you are more of a Java developer, Oracle's got your back with their Netbeans IDE. Of course, despite the fact that excellent Java
+ support is its claim to fame going as far back as the Sun Microsystems days, other languages like C/C++, Ruby, HTML5, PHP and more are 
+ supported as well. Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support
+ and libraries, among other things. Netbeans is free under the Common Development and Distribution License (CDDL) v1.0 and 
+ GNU General Public License (GPL) v2.
+
+ 3. Eclipse
+
+ This IDE is quite comprehensive and even similar to Netbeans in a variety of ways, including its use of Java and plugin architecture. 
+ However, Eclipse as an IDE comes in a wild variety of flavors, catering to various needs and objectives in software development workflows.
+ The Eclipse Foundation even provides a comparison page to view the differences between the variants of Eclipse. Eclipse is free under the 
+ terms and conditions of the Eclipse Foundation Software User Agreement unless otherwise specified.
+
+ 4. Android Studio
+
+	Android Studio is an integrated development environment (IDE) for developing on the Android platform. It was announced on May 16, 2013
+ at the Google I/O conference by Google's Product Manager, Ellie Powers. Android Studio is freely available under the Apache License 2.0. 
+ Android Studio was in early access preview stage starting from version 0.1 in May 2013, then entered beta stage starting from version 0.8
+ which was released in June 2014. The first stable build was released in December 2014, starting from version 1.0.
+ Based on JetBrains' IntelliJ IDEA software, the Studio is designed specifically for Android development. It is available for download
+ on Windows, Mac OS X and Linux
+ 
+ 5.  AppBuilder
+
+ Telerik’s AppBuilder provides a single framework for developing apps compatible with iOS, Android and Windows Phone 8 platforms.
+ AppBuilder relies on the web-standard technologies, including HTML, CSS and JavaScript, and you can build in your choice of five IDEs
+ — all integrated with AppBuilder, or build within your web browser using all the features you’d expect from a desktop IDE.
