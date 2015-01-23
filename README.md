@@ -1,3 +1,0 @@
-<<<<<<< HEAD
-# Introduction-to-Programming-
-=======
